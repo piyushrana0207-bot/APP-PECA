@@ -1,3 +1,3 @@
 # APP-PECA
-Its a my first repository
+Its a my first repository.
 Author-Piyush
